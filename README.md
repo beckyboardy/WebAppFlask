@@ -2,10 +2,10 @@
 This is an example web application using a flask. I run this off my WSL.
 
 ## PreReqs
-apt-get update
-apt-get install -y python
-apt install -y python3-pip
-pip3 install flask
+1. apt-get update
+2. apt-get install -y python
+3. apt install -y python3-pip
+4. pip3 install flask
 
 ## To Run the app
 1. Make a directory and file called my app 
