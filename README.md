@@ -1,13 +1,13 @@
 # WebAppFlask
 This is an example web application using a flask. I run this off my WSL.
 
-##PreReqs
+## PreReqs
 apt-get update
 apt-get install -y python
 apt install -y python3-pip
 pip3 install flask
 
-##To Run the app
+## To Run the app
 1. Make a directory and file called my app 
   cat > myapp.py
 2. Paste in the code from myapp.py
